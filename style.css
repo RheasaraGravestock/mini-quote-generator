@@ -1,0 +1,14 @@
+body {
+   background-color: rgba(226, 188, 138, 0.446);
+   color: rgb(124, 74, 7);
+   font-family: 'Courier New', Courier, monospace;
+   text-align: center;
+}
+#clickButton {
+    background-color: rgb(226, 145, 14);
+    color: antiquewhite;
+    font-size: 15px;
+    border: none;
+    border-radius: 15px;
+    padding: 10px;
+}
