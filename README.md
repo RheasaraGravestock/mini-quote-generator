@@ -5,3 +5,4 @@
 ---
 
 ## Check it out:
+[mini quote generator](https://rheasaragravestock.github.io/mini-quote-generator/)
